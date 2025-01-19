@@ -1,5 +1,6 @@
 .navbar{
     width:100%;
+    margin:0;
     padding:20px 6%;
     display: flex;
     justify-content: space-between;
@@ -75,4 +76,8 @@
 
 .navbar-profile:hover .dropdown{
     display:block;
+}
+
+.nav-dark{
+    background: #141414;
 }
